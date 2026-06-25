@@ -3,5 +3,8 @@
 *.pt
 *.npy
 .env
+
+# macOS
+.DS_Store
 ._*
 
