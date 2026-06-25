@@ -1,1 +1,12 @@
-# ResearchAssistance
+# Research Assistance (A personal RAG tool)
+
+# Project objectives
+
+    To create a personal RAG (Retrieval-Augmented Generation) tool that allows users to efficiently retrieve and generate information based on their personal research needs.
+
+
+# Progress Tracking 
+
+Module 0. 
+    - [x] Define project objectives and scope
+    - [x] Set up project repository and version control
